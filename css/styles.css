@@ -114,10 +114,6 @@ address{
     border-radius: 2px;
 }
 
-/*.header-menu-item{
-    padding: 24px 0;
-}*/
-
 .header-menu-link:hover,
 .header-menu-link:focus{
     color: #404bbf; 
@@ -421,8 +417,8 @@ margin-top: 8px;
     position: relative;
 }
 
-.portfolio-above:hover{
-    
+.portfolio-above:hover p{
+    transform: translateY(0%);
 }
 
 .colors-picturs-text{
@@ -441,7 +437,7 @@ margin-top: 8px;
 }
 
 .colors-picturs-text:hover{
-    transform: translateY(0%);
+   
 }
 
 
