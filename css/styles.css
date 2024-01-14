@@ -48,8 +48,6 @@ address{
 
 .header{
     box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 1px 6px rgba(46, 47, 66, 0.08); 
-    padding-top: 25.5px;
-    padding-bottom: 25.5px;
     border-bottom:  1px solid #e7e9fc;
 }
 
@@ -93,7 +91,7 @@ address{
 }
 
 .header-menu-link {
-    color: #404bbf; 
+    color: #434455; 
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5; /* 150% */
@@ -168,11 +166,11 @@ address{
 }
 
 .hero-container{
-    /*background-color: #2E2F42;
+    background-color: #2E2F42;
     background-image: url(../images/people-office\ 1-2.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    block-size: cover;*/
+    block-size: cover;
 }
 
 .hero-title {
@@ -332,7 +330,6 @@ address{
     line-height: 1.2; /* 120% */
     letter-spacing: 0.02em;
     text-align: center;
-    margin-bottom: 8px;
 }
 
 .taste-text {
@@ -417,6 +414,7 @@ margin-top: 8px;
     align-items: center;
     overflow: hidden;
     position: relative;
+    overflow: hidden;
 }
 
 .portfolio-above:hover p{
