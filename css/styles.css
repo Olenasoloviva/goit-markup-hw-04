@@ -90,6 +90,7 @@ address{
     gap: 40px;
 }
 
+
 .header-menu-link {
     color: #434455; 
     font-size: 16px;
@@ -159,6 +160,7 @@ address{
     background-repeat: no-repeat;
     background-position: center;
     block-size: cover;
+    background-size: cover; 
 }
 
 
